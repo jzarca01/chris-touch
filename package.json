@@ -1,0 +1,26 @@
+{
+  "name": "chris-touch",
+  "version": "0.0.1",
+  "description": "@drashorb dans la TouchBar",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=5.6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^3.0.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarca01/chris-touch.git"
+  },
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzarca01/chris-touch/issues"
+  },
+  "homepage": "https://github.com/jzarca01/chris-touch#readme"
+}
